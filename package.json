@@ -1,0 +1,24 @@
+{
+  "name": "spicetify-css-remapper",
+  "version": "1.0.0",
+  "description": "Remaps spicetify-cli's css-map.json between Spotify versions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itsmeow",
+  "license": "MIT",
+  "dependencies": {
+    "diff": "^5.0.0",
+    "moment": "^2.29.1",
+    "prettier": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmeow/spicetify-css-remapper"
+  },
+  "bugs": {
+    "url": "https://github.com/itsmeow/spicetify-css-remapper/issues"
+  }
+}
